@@ -6,6 +6,7 @@ import dotenv from "dotenv";
 // load .env
 dotenv.config()
 
+// just adjust
 const BASE_URL_PORT = process.env.BASE_URL_PORT
 
 const app = express();
